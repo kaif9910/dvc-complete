@@ -1,0 +1,12 @@
+2026-09-01 19:55:07,710 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2026-09-01 19:55:08,302 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/vikashishere/Datasets/refs/heads/main/spam.csv
+2026-09-01 19:55:08,319 - data_ingestion - DEBUG - Data preprocessing completed
+2026-09-01 19:55:08,359 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2026-09-01 19:55:50,152 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2026-09-01 19:55:51,790 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/vikashishere/Datasets/refs/heads/main/spam.csv
+2026-09-01 19:55:51,795 - data_ingestion - DEBUG - Data preprocessing completed
+2026-09-01 19:55:51,822 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2026-09-01 20:11:45,133 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2026-09-01 20:11:45,838 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/vikashishere/Datasets/refs/heads/main/spam.csv
+2026-09-01 20:11:45,844 - data_ingestion - DEBUG - Data preprocessing completed
+2026-09-01 20:11:45,871 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
