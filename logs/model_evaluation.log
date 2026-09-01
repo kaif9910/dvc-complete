@@ -3,3 +3,15 @@
 2026-09-01 20:47:07,051 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
 2026-09-01 20:47:07,096 - model_evaluation - DEBUG - Model evaluation metrics calculated
 2026-09-01 20:47:08,385 - model_evaluation - ERROR - Failed to complete the model evaluation process: Empty git repo
+2026-09-01 20:50:03,601 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2026-09-01 20:50:03,830 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2026-09-01 20:50:03,859 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2026-09-01 20:50:03,906 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2026-09-01 20:50:05,131 - model_evaluation - ERROR - Failed to complete the model evaluation process: could not remove 'C:/Users/imdka/OneDrive/Desktop/DVC/dvc-complete/logs/model_evaluation.log': The process cannot access the file because it is being used by another process.
+
+2026-09-01 20:51:57,882 - model_evaluation - DEBUG - Parameters retrieved from params.yaml
+2026-09-01 20:51:58,093 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2026-09-01 20:51:58,118 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2026-09-01 20:51:58,166 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2026-09-01 20:51:59,268 - model_evaluation - ERROR - Failed to complete the model evaluation process: could not remove 'C:/Users/imdka/OneDrive/Desktop/DVC/dvc-complete/logs/model_evaluation.log': The process cannot access the file because it is being used by another process.
+
