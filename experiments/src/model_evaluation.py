@@ -127,6 +127,10 @@ def main():
 
         metrics, y_pred = evaluate_model(clf, X_test, y_test)
 
+        # Close file handler before DVC live tries to touch the logs folder
+        file_handler.close()
+        logger.removeHandler(file_handler)
+
         # Experiment tracking using dvclive
         with Live(save_dvc_exp=True) as live:
             live.log_metric('accuracy', accuracy_score(y_test, y_pred))
